@@ -1,17 +1,49 @@
-<h1 align="center">Hi 👋, I'm Vitor Hugo da Silva Lima</h1>
-<h3 align="center">Senior Backend Engineer passionate about web development and new technologies.</h3>
+# Hi there! I'm Vitor Hugo da Silva Lima
 
-- 📝 I regularly write articles on [https://medium.com/@silvalimavitorhugo](https://medium.com/@silvalimavitorhugo)
+I’m a **Backend Engineer** with a passion for AI, data-driven solutions, and building reliable, scalable systems.  
+Here, you’ll find projects and snippets that reflect my journey—ranging from **inventory management** integrations to **NLP** applications.
 
-- 💬 Ask me about **django, flask, docker.**
+---
 
-- 📫 How to reach me **silvalimavitorhugo@gmail.com**
+## 🎯 About Me
+- **Education**: Bachelor’s in Information Systems from the Federal University of Acre (Brazil).  
+- **International Experience**: Worked in Mexico (IntegraIT) and collaborated with global teams (Cornershop by Uber, BoostUp.ai, Standard AI).
+- **Interests**: AI/ML, data structures & algorithms, backend architecture, microservices, and delivering meaningful outcomes to end-users.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vitor-hugo-da-silva-lima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitor-hugo-da-silva-lima" height="30" width="40" /></a>
-<a href="https://medium.com/@silvalimavitorhugo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@silvalimavitorhugo" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+## 🏗️ Experience Highlights
+- **Standard AI**: Built and maintained microservices (Python, Flask, Django, C#, Unity, Node.js) for zone monitoring and real-time shopper analytics.
+- **BoostUp.ai**: Maintained an AI-driven platform for sales forecasting, integrating NLP and sentiment analysis across multiple communication channels.
+- **Cornershop by Uber**: Developed backend services (Python, Django, PostgreSQL) for grocery delivery logistics, including an internal inventory tracking tool.
+- **Apicbase**: Led supplier integrations for an F&B management platform, optimizing data processing (batch operations, bulk updates) for large-scale inventory management.
+- **Entrepreneurship**: Founded a small software solutions company, leveraging Python, Django, and WordPress to create custom solutions for local businesses.
+
+---
+
+## ⚙️ Tech & Tools
+- **Languages**: Python, C#, SQL  
+- **Frameworks**: Django, Flask, .NET  
+- **Databases**: PostgreSQL, Oracle  
+- **Cloud**: AWS (EC2, Lambda), Docker  
+- **Data & AI**: NLP, Sentiment Analysis, Data Pipelines  
+
+---
+
+## 🤝 Collaboration
+- Experience working closely with **Product**, **Data Science**, and **Engineering** teams.
+- Effective communicator, comfortable explaining technical concepts to non-technical audiences.
+- Proven track record of cross-functional teamwork to deliver impactful solutions.
+- I write articles on [https://medium.com/@silvalimavitorhugo](https://medium.com/@silvalimavitorhugo)
+
+---
+
+## 📫 Get in Touch
+- **LinkedIn**: [https://www.linkedin.com/in/vitor-hugo-da-silva-lima/](https://www.linkedin.com/in/vitor-hugo-da-silva-lima/)
+- **Email**: [silvalimavitorhugo@gmail.com](mailto:silvalimavitorhugo@gmail.com)
+- **GitHub**: [github.com/yourusername](https://github.com/vdhug)
+
+---
+
+_Thanks for stopping by! Feel free to explore my repositories, and let’s connect if you have any questions or opportunities._  
+
